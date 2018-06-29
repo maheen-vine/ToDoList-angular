@@ -1,0 +1,21 @@
+h1{
+    color:midnightblue;
+    text-align: center;
+    font: 50px Andalus sans-serif;
+    background-color: darkcyan;
+
+}
+input{
+     margin-right: 50px;
+} 
+
+p{
+    margin-left: 10px;
+}
+
+.itemcolor{
+    color: darkblue;
+    font: 25px Andalus sans-serif;
+    margin-top: 10px
+    
+}
